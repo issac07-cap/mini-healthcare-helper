@@ -1,0 +1,68 @@
+com/healthcare/helper/databinding/FragmentPatientLoginBinding.java
+ com.healthcare.helper.databinding.FragmentPatientLoginBinding
+com/healthcare/helper/databinding/ActivityPatientSearchResultBinding.java
+ com.healthcare.helper.databinding.ActivityPatientSearchResultBinding
+com/healthcare/helper/databinding/ActivityPatientMainBinding.java
+ com.healthcare.helper.databinding.ActivityPatientMainBinding
+com/healthcare/helper/databinding/ActivityRegisterRoleBinding.java
+ com.healthcare.helper.databinding.ActivityRegisterRoleBinding
+com/healthcare/helper/databinding/AdminLoginLayoutBinding.java
+ com.healthcare.helper.databinding.AdminLoginLayoutBinding
+com/healthcare/helper/databinding/AddNewDegreeItemBinding.java
+ com.healthcare.helper.databinding.AddNewDegreeItemBinding
+com/healthcare/helper/databinding/ActivitySample1Binding.java
+ com.healthcare.helper.databinding.ActivitySample1Binding
+com/healthcare/helper/databinding/ActivityConstraintlayout3Binding.java
+ com.healthcare.helper.databinding.ActivityConstraintlayout3Binding
+com/healthcare/helper/databinding/ActivityPatientBookAppointmentBinding.java
+ com.healthcare.helper.databinding.ActivityPatientBookAppointmentBinding
+com/healthcare/helper/databinding/ActivityMainBinding.java
+ com.healthcare.helper.databinding.ActivityMainBinding
+com/healthcare/helper/databinding/ActivitySplashScreenBinding.java
+ com.healthcare.helper.databinding.ActivitySplashScreenBinding
+com/healthcare/helper/databinding/ActivityConstraintlayout2Binding.java
+ com.healthcare.helper.databinding.ActivityConstraintlayout2Binding
+com/healthcare/helper/databinding/FilterDoctorItemBinding.java
+ com.healthcare.helper.databinding.FilterDoctorItemBinding
+com/healthcare/helper/databinding/FragmentPatientUpcomingBookingBinding.java
+ com.healthcare.helper.databinding.FragmentPatientUpcomingBookingBinding
+com/healthcare/helper/databinding/FragmentPatientPastBookingBinding.java
+ com.healthcare.helper.databinding.FragmentPatientPastBookingBinding
+com/healthcare/helper/databinding/ActivityDoctorPatientLoginBinding.java
+ com.healthcare.helper.databinding.ActivityDoctorPatientLoginBinding
+com/healthcare/helper/databinding/ActivityChooseRoleBinding.java
+ com.healthcare.helper.databinding.ActivityChooseRoleBinding
+com/healthcare/helper/BuildConfig.java
+ com.healthcare.helper.BuildConfig
+com/healthcare/helper/databinding/AppointmentDetailRowItemBinding.java
+ com.healthcare.helper.databinding.AppointmentDetailRowItemBinding
+com/healthcare/helper/databinding/ActivityConstraintLayoutBinding.java
+ com.healthcare.helper.databinding.ActivityConstraintLayoutBinding
+com/healthcare/helper/databinding/AvailableDoctorsFragmentBinding.java
+ com.healthcare.helper.databinding.AvailableDoctorsFragmentBinding
+com/healthcare/helper/databinding/AvailableDoctorListItemBinding.java
+ com.healthcare.helper.databinding.AvailableDoctorListItemBinding
+com/healthcare/helper/databinding/DoctorDegreeDropdownItemBinding.java
+ com.healthcare.helper.databinding.DoctorDegreeDropdownItemBinding
+com/healthcare/helper/databinding/ActivityDoctorProfileBinding.java
+ com.healthcare.helper.databinding.ActivityDoctorProfileBinding
+com/healthcare/helper/databinding/AddTimeSlotBinding.java
+ com.healthcare.helper.databinding.AddTimeSlotBinding
+com/healthcare/helper/databinding/DoctorFilterDialogBinding.java
+ com.healthcare.helper.databinding.DoctorFilterDialogBinding
+com/healthcare/helper/databinding/AddDateTimeSlotLayoutBinding.java
+ com.healthcare.helper.databinding.AddDateTimeSlotLayoutBinding
+com/healthcare/helper/databinding/PatientAppointmentDetailsFragmentBinding.java
+ com.healthcare.helper.databinding.PatientAppointmentDetailsFragmentBinding
+com/healthcare/helper/databinding/FutureDateItemBinding.java
+ com.healthcare.helper.databinding.FutureDateItemBinding
+com/healthcare/helper/databinding/AvailableDoctorTimingRowItemBinding.java
+ com.healthcare.helper.databinding.AvailableDoctorTimingRowItemBinding
+com/healthcare/helper/databinding/ActivityPatientAppointmentHistoryBinding.java
+ com.healthcare.helper.databinding.ActivityPatientAppointmentHistoryBinding
+com/healthcare/helper/databinding/ActivityPatientLoginSignUpBinding.java
+ com.healthcare.helper.databinding.ActivityPatientLoginSignUpBinding
+com/healthcare/helper/databinding/FragmentPatientSignupBinding.java
+ com.healthcare.helper.databinding.FragmentPatientSignupBinding
+com/healthcare/helper/databinding/AppointmentDateItemBinding.java
+ com.healthcare.helper.databinding.AppointmentDateItemBinding

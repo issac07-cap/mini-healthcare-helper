@@ -1,0 +1,388 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/angelin/Documents/projects/android/Doctor-Patient-Android-Project-New/app/src/main/AndroidManifest.xml:2:1-64:12
+INJECTED from /Users/angelin/Documents/projects/android/Doctor-Patient-Android-Project-New/app/src/main/AndroidManifest.xml:2:1-64:12
+INJECTED from /Users/angelin/Documents/projects/android/Doctor-Patient-Android-Project-New/app/src/main/AndroidManifest.xml:2:1-64:12
+INJECTED from /Users/angelin/Documents/projects/android/Doctor-Patient-Android-Project-New/app/src/main/AndroidManifest.xml:2:1-64:12
+MERGED from [androidx.databinding:viewbinding:7.0.3] /Users/angelin/.gradle/caches/transforms-3/334e58e21ef3e645ed01bf9c1e462b9b/transformed/jetified-viewbinding-7.0.3/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/angelin/.gradle/caches/transforms-3/4bff83eee0b72d41c132a85b37d6d02b/transformed/legacy-support-v4-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [:databaseModule] /Users/angelin/Documents/projects/android/Doctor-Patient-Android-Project-New/databaseModule/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.navigation:navigation-fragment-ktx:2.3.5] /Users/angelin/.gradle/caches/transforms-3/c6ba64bb949a1449fb87b1230efd54e1/transformed/navigation-fragment-ktx-2.3.5/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment-ktx:1.2.4] /Users/angelin/.gradle/caches/transforms-3/6faa59fd7f0bcd77269267e42d806ae1/transformed/jetified-fragment-ktx-1.2.4/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-ui-ktx:2.3.5] /Users/angelin/.gradle/caches/transforms-3/823341fa4478f97a6e46757c32e5acff/transformed/navigation-ui-ktx-2.3.5/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.3.5] /Users/angelin/.gradle/caches/transforms-3/5881cc2707a4952df13698c8857b5c50/transformed/navigation-runtime-ktx-2.3.5/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-common-ktx:2.3.5] /Users/angelin/.gradle/caches/transforms-3/10e341757719353e73eed936ddcb142e/transformed/navigation-common-ktx-2.3.5/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity-ktx:1.1.0] /Users/angelin/.gradle/caches/transforms-3/c56f6a7620e22bc578e631e42ed7550d/transformed/jetified-activity-ktx-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core-ktx:1.3.2] /Users/angelin/.gradle/caches/transforms-3/39227e4d8395e28405f684d6c7cbff28/transformed/jetified-core-ktx-1.3.2/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.3.1] /Users/angelin/.gradle/caches/transforms-3/d52ec83929ee80f2a324ebf9d3f7d2d1/transformed/jetified-lifecycle-viewmodel-ktx-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-ktx:2.3.1] /Users/angelin/.gradle/caches/transforms-3/434366935c587d31dda5e622ab134adb/transformed/jetified-lifecycle-livedata-ktx-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.room:room-ktx:2.3.0] /Users/angelin/.gradle/caches/transforms-3/27046e21c511820bf693de6d8eb2266a/transformed/jetified-room-ktx-2.3.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.2.0] /Users/angelin/.gradle/caches/transforms-3/35069c8264dd28a08201879bf2f3e605/transformed/jetified-lifecycle-runtime-ktx-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.3.1] /Users/angelin/.gradle/caches/transforms-3/e235b4c4bd1f8b088f940e0945c7efc7/transformed/jetified-lifecycle-livedata-core-ktx-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-ui:2.3.5] /Users/angelin/.gradle/caches/transforms-3/99ca653f4f088e9e9b3292db02623ea2/transformed/navigation-ui-2.3.5/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.material:material:1.3.0] /Users/angelin/.gradle/caches/transforms-3/2acabaf641ba3d7b2b8089e6e635028a/transformed/material-1.3.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] /Users/angelin/.gradle/caches/transforms-3/b6af2bf772dfc0f3fa3cd82491b737f1/transformed/constraintlayout-2.0.4/AndroidManifest.xml:2:1-11:12
+MERGED from [com.airbnb.android:lottie:3.4.0] /Users/angelin/.gradle/caches/transforms-3/c322536ef295d16244015835e8c86617/transformed/jetified-lottie-3.4.0/AndroidManifest.xml:2:1-11:12
+MERGED from [com.github.f0ris.sweetalert:library:1.5.1] /Users/angelin/.gradle/caches/transforms-3/0d95e30571b65ce9300638625b899ba6/transformed/jetified-library-1.5.1/AndroidManifest.xml:2:1-13:12
+MERGED from [com.pnikosis:materialish-progress:1.0] /Users/angelin/.gradle/caches/transforms-3/d79b4e596ce76ec6f91a8759d298e35f/transformed/jetified-materialish-progress-1.0/AndroidManifest.xml:2:1-17:12
+MERGED from [androidx.appcompat:appcompat:1.2.0] /Users/angelin/.gradle/caches/transforms-3/c1b9e6aea893fad2a133263835140d09/transformed/appcompat-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.multidex:multidex:2.0.0] /Users/angelin/.gradle/caches/transforms-3/ac2671c90c0ca4d83acb86145759def7/transformed/multidex-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [de.hdodenhof:circleimageview:3.1.0] /Users/angelin/.gradle/caches/transforms-3/571a35b24cf4535844f4d68deba6b6f6/transformed/jetified-circleimageview-3.1.0/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.room:room-runtime:2.3.0] /Users/angelin/.gradle/caches/transforms-3/58138316f5a323488c5337359073de39/transformed/room-runtime-2.3.0/AndroidManifest.xml:17:1-31:12
+MERGED from [androidx.media:media:1.0.0] /Users/angelin/.gradle/caches/transforms-3/c88a815297fc9b71559d44e636747c23/transformed/media-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/angelin/.gradle/caches/transforms-3/359d8e8765317f65dab7935a2fd4e37d/transformed/legacy-support-core-ui-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/angelin/.gradle/caches/transforms-3/a2643c5ebfada9f2f5071a9bcb1610ad/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/angelin/.gradle/caches/transforms-3/005fb10c805468e1477af9925a9a4ef9/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] /Users/angelin/.gradle/caches/transforms-3/7953d453133aceace0035cb6578d3225/transformed/jetified-appcompat-resources-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/angelin/.gradle/caches/transforms-3/41d620fdb4155e8e70f2da8685ee0156/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/angelin/.gradle/caches/transforms-3/a1fa4ee27b9baf2f546ca5ab5d7ae333/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/angelin/.gradle/caches/transforms-3/660ec367b429f3bb30f86aac25ac55d7/transformed/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/angelin/.gradle/caches/transforms-3/054165266145d756dc19bae0bd90bbd3/transformed/jetified-viewpager2-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-fragment:2.3.5] /Users/angelin/.gradle/caches/transforms-3/eea9742d190306e3960cdce357ee0164/transformed/navigation-fragment-2.3.5/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.2.4] /Users/angelin/.gradle/caches/transforms-3/561455438bc8ae8532e4aa722fdd932e/transformed/fragment-1.2.4/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/angelin/.gradle/caches/transforms-3/2c4c88d3ffd872a285f27eb62b65ad19/transformed/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/angelin/.gradle/caches/transforms-3/9f2ab41eb3ffe25ae9ffcebd3f6d4e0b/transformed/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/angelin/.gradle/caches/transforms-3/f35de7a1eeff87ee5bb17d33efad3777/transformed/slidingpanelayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/angelin/.gradle/caches/transforms-3/5a0fbe18a42cfa1859ddab587cca5ed7/transformed/swiperefreshlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/angelin/.gradle/caches/transforms-3/4f303c1c48971513ca47cfe98537a087/transformed/asynclayoutinflater-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/angelin/.gradle/caches/transforms-3/e1339030717ddd83c72bf114b27b8f40/transformed/recyclerview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /Users/angelin/.gradle/caches/transforms-3/8ff2142a1a3a32201889c8badcb195c4/transformed/drawerlayout-1.1.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.1.0] /Users/angelin/.gradle/caches/transforms-3/9c05732d6d2dbc22c55cfeaaec6fe728/transformed/customview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.3.0] /Users/angelin/.gradle/caches/transforms-3/8f904d2ca472b98b3e330ab88b3a27ea/transformed/transition-1.3.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-runtime:2.3.5] /Users/angelin/.gradle/caches/transforms-3/085a0e386f1d630cb9aad4627ef18f5e/transformed/navigation-runtime-2.3.5/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.1.0] /Users/angelin/.gradle/caches/transforms-3/c9abca911df12f4c294d31f10b1e02cd/transformed/jetified-activity-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-common:2.3.5] /Users/angelin/.gradle/caches/transforms-3/d3bc00b436a244a8f9a419ff5d5dda2b/transformed/navigation-common-2.3.5/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.3.2] /Users/angelin/.gradle/caches/transforms-3/757d34ac79418c4db35d5e9fcc0c9e11/transformed/core-1.3.2/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/angelin/.gradle/caches/transforms-3/7f71cc8fe47eea07bd871bdd2868ac22/transformed/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/angelin/.gradle/caches/transforms-3/482be06faa15cf456eb93dae81837d4e/transformed/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0] /Users/angelin/.gradle/caches/transforms-3/7f6d2629ed70dc0b3e4b0439c9483892/transformed/jetified-lifecycle-viewmodel-savedstate-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] /Users/angelin/.gradle/caches/transforms-3/5cae1c74e62fbb503b1c8ba79109aac7/transformed/lifecycle-viewmodel-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.sqlite:sqlite-framework:2.1.0] /Users/angelin/.gradle/caches/transforms-3/c90b97e0d5db847229be448b41d18dec/transformed/sqlite-framework-2.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.sqlite:sqlite:2.1.0] /Users/angelin/.gradle/caches/transforms-3/246b8f6b03ecfb1dd5d23ee1e864ec88/transformed/sqlite-2.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/angelin/.gradle/caches/transforms-3/215afc794b253230f4b4cd106c187f3b/transformed/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/angelin/.gradle/caches/transforms-3/e73611c39df8b263200ff11ce1e8324f/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/angelin/.gradle/caches/transforms-3/9f827041989a29281e5ba305280a65f7/transformed/print-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/angelin/.gradle/caches/transforms-3/f65a5539385e16be52cfbf6566543db7/transformed/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/angelin/.gradle/caches/transforms-3/9c1bfeafb12469e9385632ab51a0a8ec/transformed/versionedparcelable-1.1.0/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.3.1] /Users/angelin/.gradle/caches/transforms-3/65206f642923119c0a1fd3ce9b5c77db/transformed/lifecycle-livedata-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] /Users/angelin/.gradle/caches/transforms-3/54cc609905d6b62d0589875470390296/transformed/lifecycle-livedata-core-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/angelin/.gradle/caches/transforms-3/ea0474c95e32fb3645a9cc4b2cef5eba/transformed/core-runtime-2.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/angelin/.gradle/caches/transforms-3/825db026fe123865d11684d4c880f438/transformed/jetified-savedstate-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /Users/angelin/.gradle/caches/transforms-3/1f664eef65ec9f36fc498756f8eae43e/transformed/lifecycle-runtime-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /Users/angelin/.gradle/caches/transforms-3/34722d006b841ccd7f0edbfe477646ec/transformed/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:17:1-24:12
+INJECTED from /Users/angelin/Documents/projects/android/Doctor-Patient-Android-Project-New/app/src/main/AndroidManifest.xml:2:1-64:12
+INJECTED from /Users/angelin/Documents/projects/android/Doctor-Patient-Android-Project-New/app/src/main/AndroidManifest.xml:2:1-64:12
+INJECTED from /Users/angelin/Documents/projects/android/Doctor-Patient-Android-Project-New/app/src/main/AndroidManifest.xml:2:1-64:12
+	package
+		ADDED from /Users/angelin/Documents/projects/android/Doctor-Patient-Android-Project-New/app/src/main/AndroidManifest.xml:4:5-36
+		INJECTED from /Users/angelin/Documents/projects/android/Doctor-Patient-Android-Project-New/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/angelin/Documents/projects/android/Doctor-Patient-Android-Project-New/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/angelin/Documents/projects/android/Doctor-Patient-Android-Project-New/app/src/main/AndroidManifest.xml
+		ADDED from /Users/angelin/Documents/projects/android/Doctor-Patient-Android-Project-New/app/src/main/AndroidManifest.xml:2:1-64:12
+		INJECTED from /Users/angelin/Documents/projects/android/Doctor-Patient-Android-Project-New/app/src/main/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /Users/angelin/Documents/projects/android/Doctor-Patient-Android-Project-New/app/src/main/AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from /Users/angelin/Documents/projects/android/Doctor-Patient-Android-Project-New/app/src/main/AndroidManifest.xml
+		ADDED from /Users/angelin/Documents/projects/android/Doctor-Patient-Android-Project-New/app/src/main/AndroidManifest.xml:2:1-64:12
+		INJECTED from /Users/angelin/Documents/projects/android/Doctor-Patient-Android-Project-New/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/angelin/Documents/projects/android/Doctor-Patient-Android-Project-New/app/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /Users/angelin/Documents/projects/android/Doctor-Patient-Android-Project-New/app/src/main/AndroidManifest.xml:6:5-62:19
+MERGED from [com.google.android.material:material:1.3.0] /Users/angelin/.gradle/caches/transforms-3/2acabaf641ba3d7b2b8089e6e635028a/transformed/material-1.3.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.3.0] /Users/angelin/.gradle/caches/transforms-3/2acabaf641ba3d7b2b8089e6e635028a/transformed/material-1.3.0/AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] /Users/angelin/.gradle/caches/transforms-3/b6af2bf772dfc0f3fa3cd82491b737f1/transformed/constraintlayout-2.0.4/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] /Users/angelin/.gradle/caches/transforms-3/b6af2bf772dfc0f3fa3cd82491b737f1/transformed/constraintlayout-2.0.4/AndroidManifest.xml:9:5-20
+MERGED from [com.airbnb.android:lottie:3.4.0] /Users/angelin/.gradle/caches/transforms-3/c322536ef295d16244015835e8c86617/transformed/jetified-lottie-3.4.0/AndroidManifest.xml:9:5-20
+MERGED from [com.airbnb.android:lottie:3.4.0] /Users/angelin/.gradle/caches/transforms-3/c322536ef295d16244015835e8c86617/transformed/jetified-lottie-3.4.0/AndroidManifest.xml:9:5-20
+MERGED from [com.github.f0ris.sweetalert:library:1.5.1] /Users/angelin/.gradle/caches/transforms-3/0d95e30571b65ce9300638625b899ba6/transformed/jetified-library-1.5.1/AndroidManifest.xml:11:5-20
+MERGED from [com.github.f0ris.sweetalert:library:1.5.1] /Users/angelin/.gradle/caches/transforms-3/0d95e30571b65ce9300638625b899ba6/transformed/jetified-library-1.5.1/AndroidManifest.xml:11:5-20
+MERGED from [com.pnikosis:materialish-progress:1.0] /Users/angelin/.gradle/caches/transforms-3/d79b4e596ce76ec6f91a8759d298e35f/transformed/jetified-materialish-progress-1.0/AndroidManifest.xml:11:5-15:19
+MERGED from [com.pnikosis:materialish-progress:1.0] /Users/angelin/.gradle/caches/transforms-3/d79b4e596ce76ec6f91a8759d298e35f/transformed/jetified-materialish-progress-1.0/AndroidManifest.xml:11:5-15:19
+MERGED from [de.hdodenhof:circleimageview:3.1.0] /Users/angelin/.gradle/caches/transforms-3/571a35b24cf4535844f4d68deba6b6f6/transformed/jetified-circleimageview-3.1.0/AndroidManifest.xml:9:5-20
+MERGED from [de.hdodenhof:circleimageview:3.1.0] /Users/angelin/.gradle/caches/transforms-3/571a35b24cf4535844f4d68deba6b6f6/transformed/jetified-circleimageview-3.1.0/AndroidManifest.xml:9:5-20
+MERGED from [androidx.room:room-runtime:2.3.0] /Users/angelin/.gradle/caches/transforms-3/58138316f5a323488c5337359073de39/transformed/room-runtime-2.3.0/AndroidManifest.xml:24:5-29:19
+MERGED from [androidx.room:room-runtime:2.3.0] /Users/angelin/.gradle/caches/transforms-3/58138316f5a323488c5337359073de39/transformed/room-runtime-2.3.0/AndroidManifest.xml:24:5-29:19
+MERGED from [androidx.core:core:1.3.2] /Users/angelin/.gradle/caches/transforms-3/757d34ac79418c4db35d5e9fcc0c9e11/transformed/core-1.3.2/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.3.2] /Users/angelin/.gradle/caches/transforms-3/757d34ac79418c4db35d5e9fcc0c9e11/transformed/core-1.3.2/AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/angelin/.gradle/caches/transforms-3/9c1bfeafb12469e9385632ab51a0a8ec/transformed/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/angelin/.gradle/caches/transforms-3/9c1bfeafb12469e9385632ab51a0a8ec/transformed/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.3.2] /Users/angelin/.gradle/caches/transforms-3/757d34ac79418c4db35d5e9fcc0c9e11/transformed/core-1.3.2/AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from /Users/angelin/Documents/projects/android/Doctor-Patient-Android-Project-New/app/src/main/AndroidManifest.xml:12:9-35
+	android:label
+		ADDED from /Users/angelin/Documents/projects/android/Doctor-Patient-Android-Project-New/app/src/main/AndroidManifest.xml:10:9-41
+	android:roundIcon
+		ADDED from /Users/angelin/Documents/projects/android/Doctor-Patient-Android-Project-New/app/src/main/AndroidManifest.xml:11:9-57
+	android:icon
+		ADDED from /Users/angelin/Documents/projects/android/Doctor-Patient-Android-Project-New/app/src/main/AndroidManifest.xml:9:9-46
+		REJECTED from [com.pnikosis:materialish-progress:1.0] /Users/angelin/.gradle/caches/transforms-3/d79b4e596ce76ec6f91a8759d298e35f/transformed/jetified-materialish-progress-1.0/AndroidManifest.xml:13:9-45
+	android:allowBackup
+		ADDED from /Users/angelin/Documents/projects/android/Doctor-Patient-Android-Project-New/app/src/main/AndroidManifest.xml:8:9-35
+	android:theme
+		ADDED from /Users/angelin/Documents/projects/android/Doctor-Patient-Android-Project-New/app/src/main/AndroidManifest.xml:13:9-58
+	tools:replace
+		ADDED from /Users/angelin/Documents/projects/android/Doctor-Patient-Android-Project-New/app/src/main/AndroidManifest.xml:14:9-37
+	android:name
+		ADDED from /Users/angelin/Documents/projects/android/Doctor-Patient-Android-Project-New/app/src/main/AndroidManifest.xml:7:9-52
+activity#com.healthcare.helper.SplashScreenActivity
+ADDED from /Users/angelin/Documents/projects/android/Doctor-Patient-Android-Project-New/app/src/main/AndroidManifest.xml:15:9-22:20
+	android:theme
+		ADDED from /Users/angelin/Documents/projects/android/Doctor-Patient-Android-Project-New/app/src/main/AndroidManifest.xml:17:13-53
+	android:name
+		ADDED from /Users/angelin/Documents/projects/android/Doctor-Patient-Android-Project-New/app/src/main/AndroidManifest.xml:16:13-70
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/angelin/Documents/projects/android/Doctor-Patient-Android-Project-New/app/src/main/AndroidManifest.xml:18:13-21:29
+action#android.intent.action.MAIN
+ADDED from /Users/angelin/Documents/projects/android/Doctor-Patient-Android-Project-New/app/src/main/AndroidManifest.xml:19:17-69
+	android:name
+		ADDED from /Users/angelin/Documents/projects/android/Doctor-Patient-Android-Project-New/app/src/main/AndroidManifest.xml:19:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/angelin/Documents/projects/android/Doctor-Patient-Android-Project-New/app/src/main/AndroidManifest.xml:20:17-77
+	android:name
+		ADDED from /Users/angelin/Documents/projects/android/Doctor-Patient-Android-Project-New/app/src/main/AndroidManifest.xml:20:27-74
+activity#patient.PatientLoginSignUpActivity
+ADDED from /Users/angelin/Documents/projects/android/Doctor-Patient-Android-Project-New/app/src/main/AndroidManifest.xml:23:9-26:58
+	android:windowSoftInputMode
+		ADDED from /Users/angelin/Documents/projects/android/Doctor-Patient-Android-Project-New/app/src/main/AndroidManifest.xml:26:13-55
+	android:theme
+		ADDED from /Users/angelin/Documents/projects/android/Doctor-Patient-Android-Project-New/app/src/main/AndroidManifest.xml:25:13-59
+	android:name
+		ADDED from /Users/angelin/Documents/projects/android/Doctor-Patient-Android-Project-New/app/src/main/AndroidManifest.xml:24:13-62
+activity#patient.PatientSearchResultActivity
+ADDED from /Users/angelin/Documents/projects/android/Doctor-Patient-Android-Project-New/app/src/main/AndroidManifest.xml:29:9-33:20
+	android:name
+		ADDED from /Users/angelin/Documents/projects/android/Doctor-Patient-Android-Project-New/app/src/main/AndroidManifest.xml:29:19-69
+intent-filter#action:name:android.intent.action.SEARCH
+ADDED from /Users/angelin/Documents/projects/android/Doctor-Patient-Android-Project-New/app/src/main/AndroidManifest.xml:30:13-32:29
+action#android.intent.action.SEARCH
+ADDED from /Users/angelin/Documents/projects/android/Doctor-Patient-Android-Project-New/app/src/main/AndroidManifest.xml:31:17-71
+	android:name
+		ADDED from /Users/angelin/Documents/projects/android/Doctor-Patient-Android-Project-New/app/src/main/AndroidManifest.xml:31:25-68
+activity#patient.PatientMainActivity
+ADDED from /Users/angelin/Documents/projects/android/Doctor-Patient-Android-Project-New/app/src/main/AndroidManifest.xml:34:9-38:20
+	android:name
+		ADDED from /Users/angelin/Documents/projects/android/Doctor-Patient-Android-Project-New/app/src/main/AndroidManifest.xml:34:19-61
+meta-data#android.app.searchable
+ADDED from /Users/angelin/Documents/projects/android/Doctor-Patient-Android-Project-New/app/src/main/AndroidManifest.xml:35:13-37:54
+	android:resource
+		ADDED from /Users/angelin/Documents/projects/android/Doctor-Patient-Android-Project-New/app/src/main/AndroidManifest.xml:37:17-51
+	android:name
+		ADDED from /Users/angelin/Documents/projects/android/Doctor-Patient-Android-Project-New/app/src/main/AndroidManifest.xml:36:17-54
+activity#SampleTestingProject.Sample.Sample1
+ADDED from /Users/angelin/Documents/projects/android/Doctor-Patient-Android-Project-New/app/src/main/AndroidManifest.xml:39:9-72
+	android:name
+		ADDED from /Users/angelin/Documents/projects/android/Doctor-Patient-Android-Project-New/app/src/main/AndroidManifest.xml:39:19-69
+activity#SampleTestingProject.Constraintlayout3
+ADDED from /Users/angelin/Documents/projects/android/Doctor-Patient-Android-Project-New/app/src/main/AndroidManifest.xml:40:9-46:20
+	android:parentActivityName
+		ADDED from /Users/angelin/Documents/projects/android/Doctor-Patient-Android-Project-New/app/src/main/AndroidManifest.xml:42:13-80
+	android:name
+		ADDED from /Users/angelin/Documents/projects/android/Doctor-Patient-Android-Project-New/app/src/main/AndroidManifest.xml:41:13-66
+meta-data#android.support.PARENT_PARENT_ACTIVITY
+ADDED from /Users/angelin/Documents/projects/android/Doctor-Patient-Android-Project-New/app/src/main/AndroidManifest.xml:43:13-45:74
+	android:value
+		ADDED from /Users/angelin/Documents/projects/android/Doctor-Patient-Android-Project-New/app/src/main/AndroidManifest.xml:45:17-71
+	android:name
+		ADDED from /Users/angelin/Documents/projects/android/Doctor-Patient-Android-Project-New/app/src/main/AndroidManifest.xml:44:17-70
+activity#SampleTestingProject.Constraintlayout2
+ADDED from /Users/angelin/Documents/projects/android/Doctor-Patient-Android-Project-New/app/src/main/AndroidManifest.xml:47:9-75
+	android:name
+		ADDED from /Users/angelin/Documents/projects/android/Doctor-Patient-Android-Project-New/app/src/main/AndroidManifest.xml:47:19-72
+activity#SampleTestingProject.ConstraintLayoutActivity
+ADDED from /Users/angelin/Documents/projects/android/Doctor-Patient-Android-Project-New/app/src/main/AndroidManifest.xml:48:9-82
+	android:name
+		ADDED from /Users/angelin/Documents/projects/android/Doctor-Patient-Android-Project-New/app/src/main/AndroidManifest.xml:48:19-79
+activity#patient.PatientAppointmentHistoryActivity
+ADDED from /Users/angelin/Documents/projects/android/Doctor-Patient-Android-Project-New/app/src/main/AndroidManifest.xml:49:9-78
+	android:name
+		ADDED from /Users/angelin/Documents/projects/android/Doctor-Patient-Android-Project-New/app/src/main/AndroidManifest.xml:49:19-75
+activity#patient.PatientBookAppointmentActivity
+ADDED from /Users/angelin/Documents/projects/android/Doctor-Patient-Android-Project-New/app/src/main/AndroidManifest.xml:50:9-75
+	android:name
+		ADDED from /Users/angelin/Documents/projects/android/Doctor-Patient-Android-Project-New/app/src/main/AndroidManifest.xml:50:19-72
+activity#doctor.DoctorProfileActivity
+ADDED from /Users/angelin/Documents/projects/android/Doctor-Patient-Android-Project-New/app/src/main/AndroidManifest.xml:51:9-65
+	android:name
+		ADDED from /Users/angelin/Documents/projects/android/Doctor-Patient-Android-Project-New/app/src/main/AndroidManifest.xml:51:19-62
+activity#doctorPatientCommon.DoctorLoginActivity
+ADDED from /Users/angelin/Documents/projects/android/Doctor-Patient-Android-Project-New/app/src/main/AndroidManifest.xml:52:9-55:58
+	android:windowSoftInputMode
+		ADDED from /Users/angelin/Documents/projects/android/Doctor-Patient-Android-Project-New/app/src/main/AndroidManifest.xml:55:13-55
+	android:theme
+		ADDED from /Users/angelin/Documents/projects/android/Doctor-Patient-Android-Project-New/app/src/main/AndroidManifest.xml:54:13-52
+	android:name
+		ADDED from /Users/angelin/Documents/projects/android/Doctor-Patient-Android-Project-New/app/src/main/AndroidManifest.xml:53:13-67
+activity#admin.RegisterRoleActivity
+ADDED from /Users/angelin/Documents/projects/android/Doctor-Patient-Android-Project-New/app/src/main/AndroidManifest.xml:56:9-59:58
+	android:parentActivityName
+		ADDED from /Users/angelin/Documents/projects/android/Doctor-Patient-Android-Project-New/app/src/main/AndroidManifest.xml:58:13-66
+	android:windowSoftInputMode
+		ADDED from /Users/angelin/Documents/projects/android/Doctor-Patient-Android-Project-New/app/src/main/AndroidManifest.xml:59:13-55
+	android:name
+		ADDED from /Users/angelin/Documents/projects/android/Doctor-Patient-Android-Project-New/app/src/main/AndroidManifest.xml:57:13-54
+activity#admin.ChooseRoleActivity
+ADDED from /Users/angelin/Documents/projects/android/Doctor-Patient-Android-Project-New/app/src/main/AndroidManifest.xml:60:9-61
+	android:name
+		ADDED from /Users/angelin/Documents/projects/android/Doctor-Patient-Android-Project-New/app/src/main/AndroidManifest.xml:60:19-58
+activity#com.healthcare.helper.MainActivity
+ADDED from /Users/angelin/Documents/projects/android/Doctor-Patient-Android-Project-New/app/src/main/AndroidManifest.xml:61:9-71
+	android:name
+		ADDED from /Users/angelin/Documents/projects/android/Doctor-Patient-Android-Project-New/app/src/main/AndroidManifest.xml:61:19-68
+uses-sdk
+INJECTED from /Users/angelin/Documents/projects/android/Doctor-Patient-Android-Project-New/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/angelin/Documents/projects/android/Doctor-Patient-Android-Project-New/app/src/main/AndroidManifest.xml
+INJECTED from /Users/angelin/Documents/projects/android/Doctor-Patient-Android-Project-New/app/src/main/AndroidManifest.xml
+MERGED from [androidx.databinding:viewbinding:7.0.3] /Users/angelin/.gradle/caches/transforms-3/334e58e21ef3e645ed01bf9c1e462b9b/transformed/jetified-viewbinding-7.0.3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.databinding:viewbinding:7.0.3] /Users/angelin/.gradle/caches/transforms-3/334e58e21ef3e645ed01bf9c1e462b9b/transformed/jetified-viewbinding-7.0.3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/angelin/.gradle/caches/transforms-3/4bff83eee0b72d41c132a85b37d6d02b/transformed/legacy-support-v4-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/angelin/.gradle/caches/transforms-3/4bff83eee0b72d41c132a85b37d6d02b/transformed/legacy-support-v4-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [:databaseModule] /Users/angelin/Documents/projects/android/Doctor-Patient-Android-Project-New/databaseModule/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:databaseModule] /Users/angelin/Documents/projects/android/Doctor-Patient-Android-Project-New/databaseModule/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.navigation:navigation-fragment-ktx:2.3.5] /Users/angelin/.gradle/caches/transforms-3/c6ba64bb949a1449fb87b1230efd54e1/transformed/navigation-fragment-ktx-2.3.5/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-fragment-ktx:2.3.5] /Users/angelin/.gradle/caches/transforms-3/c6ba64bb949a1449fb87b1230efd54e1/transformed/navigation-fragment-ktx-2.3.5/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment-ktx:1.2.4] /Users/angelin/.gradle/caches/transforms-3/6faa59fd7f0bcd77269267e42d806ae1/transformed/jetified-fragment-ktx-1.2.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment-ktx:1.2.4] /Users/angelin/.gradle/caches/transforms-3/6faa59fd7f0bcd77269267e42d806ae1/transformed/jetified-fragment-ktx-1.2.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-ui-ktx:2.3.5] /Users/angelin/.gradle/caches/transforms-3/823341fa4478f97a6e46757c32e5acff/transformed/navigation-ui-ktx-2.3.5/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-ui-ktx:2.3.5] /Users/angelin/.gradle/caches/transforms-3/823341fa4478f97a6e46757c32e5acff/transformed/navigation-ui-ktx-2.3.5/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.3.5] /Users/angelin/.gradle/caches/transforms-3/5881cc2707a4952df13698c8857b5c50/transformed/navigation-runtime-ktx-2.3.5/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.3.5] /Users/angelin/.gradle/caches/transforms-3/5881cc2707a4952df13698c8857b5c50/transformed/navigation-runtime-ktx-2.3.5/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common-ktx:2.3.5] /Users/angelin/.gradle/caches/transforms-3/10e341757719353e73eed936ddcb142e/transformed/navigation-common-ktx-2.3.5/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common-ktx:2.3.5] /Users/angelin/.gradle/caches/transforms-3/10e341757719353e73eed936ddcb142e/transformed/navigation-common-ktx-2.3.5/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity-ktx:1.1.0] /Users/angelin/.gradle/caches/transforms-3/c56f6a7620e22bc578e631e42ed7550d/transformed/jetified-activity-ktx-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity-ktx:1.1.0] /Users/angelin/.gradle/caches/transforms-3/c56f6a7620e22bc578e631e42ed7550d/transformed/jetified-activity-ktx-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core-ktx:1.3.2] /Users/angelin/.gradle/caches/transforms-3/39227e4d8395e28405f684d6c7cbff28/transformed/jetified-core-ktx-1.3.2/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.3.2] /Users/angelin/.gradle/caches/transforms-3/39227e4d8395e28405f684d6c7cbff28/transformed/jetified-core-ktx-1.3.2/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.3.1] /Users/angelin/.gradle/caches/transforms-3/d52ec83929ee80f2a324ebf9d3f7d2d1/transformed/jetified-lifecycle-viewmodel-ktx-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.3.1] /Users/angelin/.gradle/caches/transforms-3/d52ec83929ee80f2a324ebf9d3f7d2d1/transformed/jetified-lifecycle-viewmodel-ktx-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-ktx:2.3.1] /Users/angelin/.gradle/caches/transforms-3/434366935c587d31dda5e622ab134adb/transformed/jetified-lifecycle-livedata-ktx-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-ktx:2.3.1] /Users/angelin/.gradle/caches/transforms-3/434366935c587d31dda5e622ab134adb/transformed/jetified-lifecycle-livedata-ktx-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.room:room-ktx:2.3.0] /Users/angelin/.gradle/caches/transforms-3/27046e21c511820bf693de6d8eb2266a/transformed/jetified-room-ktx-2.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.room:room-ktx:2.3.0] /Users/angelin/.gradle/caches/transforms-3/27046e21c511820bf693de6d8eb2266a/transformed/jetified-room-ktx-2.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.2.0] /Users/angelin/.gradle/caches/transforms-3/35069c8264dd28a08201879bf2f3e605/transformed/jetified-lifecycle-runtime-ktx-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.2.0] /Users/angelin/.gradle/caches/transforms-3/35069c8264dd28a08201879bf2f3e605/transformed/jetified-lifecycle-runtime-ktx-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.3.1] /Users/angelin/.gradle/caches/transforms-3/e235b4c4bd1f8b088f940e0945c7efc7/transformed/jetified-lifecycle-livedata-core-ktx-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.3.1] /Users/angelin/.gradle/caches/transforms-3/e235b4c4bd1f8b088f940e0945c7efc7/transformed/jetified-lifecycle-livedata-core-ktx-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-ui:2.3.5] /Users/angelin/.gradle/caches/transforms-3/99ca653f4f088e9e9b3292db02623ea2/transformed/navigation-ui-2.3.5/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-ui:2.3.5] /Users/angelin/.gradle/caches/transforms-3/99ca653f4f088e9e9b3292db02623ea2/transformed/navigation-ui-2.3.5/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.material:material:1.3.0] /Users/angelin/.gradle/caches/transforms-3/2acabaf641ba3d7b2b8089e6e635028a/transformed/material-1.3.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.3.0] /Users/angelin/.gradle/caches/transforms-3/2acabaf641ba3d7b2b8089e6e635028a/transformed/material-1.3.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] /Users/angelin/.gradle/caches/transforms-3/b6af2bf772dfc0f3fa3cd82491b737f1/transformed/constraintlayout-2.0.4/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] /Users/angelin/.gradle/caches/transforms-3/b6af2bf772dfc0f3fa3cd82491b737f1/transformed/constraintlayout-2.0.4/AndroidManifest.xml:5:5-7:41
+MERGED from [com.airbnb.android:lottie:3.4.0] /Users/angelin/.gradle/caches/transforms-3/c322536ef295d16244015835e8c86617/transformed/jetified-lottie-3.4.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.airbnb.android:lottie:3.4.0] /Users/angelin/.gradle/caches/transforms-3/c322536ef295d16244015835e8c86617/transformed/jetified-lottie-3.4.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.f0ris.sweetalert:library:1.5.1] /Users/angelin/.gradle/caches/transforms-3/0d95e30571b65ce9300638625b899ba6/transformed/jetified-library-1.5.1/AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.f0ris.sweetalert:library:1.5.1] /Users/angelin/.gradle/caches/transforms-3/0d95e30571b65ce9300638625b899ba6/transformed/jetified-library-1.5.1/AndroidManifest.xml:7:5-9:41
+MERGED from [com.pnikosis:materialish-progress:1.0] /Users/angelin/.gradle/caches/transforms-3/d79b4e596ce76ec6f91a8759d298e35f/transformed/jetified-materialish-progress-1.0/AndroidManifest.xml:7:5-9:41
+MERGED from [com.pnikosis:materialish-progress:1.0] /Users/angelin/.gradle/caches/transforms-3/d79b4e596ce76ec6f91a8759d298e35f/transformed/jetified-materialish-progress-1.0/AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.appcompat:appcompat:1.2.0] /Users/angelin/.gradle/caches/transforms-3/c1b9e6aea893fad2a133263835140d09/transformed/appcompat-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.2.0] /Users/angelin/.gradle/caches/transforms-3/c1b9e6aea893fad2a133263835140d09/transformed/appcompat-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.multidex:multidex:2.0.0] /Users/angelin/.gradle/caches/transforms-3/ac2671c90c0ca4d83acb86145759def7/transformed/multidex-2.0.0/AndroidManifest.xml:20:5-43
+MERGED from [androidx.multidex:multidex:2.0.0] /Users/angelin/.gradle/caches/transforms-3/ac2671c90c0ca4d83acb86145759def7/transformed/multidex-2.0.0/AndroidManifest.xml:20:5-43
+MERGED from [de.hdodenhof:circleimageview:3.1.0] /Users/angelin/.gradle/caches/transforms-3/571a35b24cf4535844f4d68deba6b6f6/transformed/jetified-circleimageview-3.1.0/AndroidManifest.xml:5:5-7:41
+MERGED from [de.hdodenhof:circleimageview:3.1.0] /Users/angelin/.gradle/caches/transforms-3/571a35b24cf4535844f4d68deba6b6f6/transformed/jetified-circleimageview-3.1.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.room:room-runtime:2.3.0] /Users/angelin/.gradle/caches/transforms-3/58138316f5a323488c5337359073de39/transformed/room-runtime-2.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.room:room-runtime:2.3.0] /Users/angelin/.gradle/caches/transforms-3/58138316f5a323488c5337359073de39/transformed/room-runtime-2.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.media:media:1.0.0] /Users/angelin/.gradle/caches/transforms-3/c88a815297fc9b71559d44e636747c23/transformed/media-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] /Users/angelin/.gradle/caches/transforms-3/c88a815297fc9b71559d44e636747c23/transformed/media-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/angelin/.gradle/caches/transforms-3/359d8e8765317f65dab7935a2fd4e37d/transformed/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/angelin/.gradle/caches/transforms-3/359d8e8765317f65dab7935a2fd4e37d/transformed/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/angelin/.gradle/caches/transforms-3/a2643c5ebfada9f2f5071a9bcb1610ad/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/angelin/.gradle/caches/transforms-3/a2643c5ebfada9f2f5071a9bcb1610ad/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/angelin/.gradle/caches/transforms-3/005fb10c805468e1477af9925a9a4ef9/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/angelin/.gradle/caches/transforms-3/005fb10c805468e1477af9925a9a4ef9/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] /Users/angelin/.gradle/caches/transforms-3/7953d453133aceace0035cb6578d3225/transformed/jetified-appcompat-resources-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] /Users/angelin/.gradle/caches/transforms-3/7953d453133aceace0035cb6578d3225/transformed/jetified-appcompat-resources-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/angelin/.gradle/caches/transforms-3/41d620fdb4155e8e70f2da8685ee0156/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/angelin/.gradle/caches/transforms-3/41d620fdb4155e8e70f2da8685ee0156/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/angelin/.gradle/caches/transforms-3/a1fa4ee27b9baf2f546ca5ab5d7ae333/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/angelin/.gradle/caches/transforms-3/a1fa4ee27b9baf2f546ca5ab5d7ae333/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/angelin/.gradle/caches/transforms-3/660ec367b429f3bb30f86aac25ac55d7/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/angelin/.gradle/caches/transforms-3/660ec367b429f3bb30f86aac25ac55d7/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/angelin/.gradle/caches/transforms-3/054165266145d756dc19bae0bd90bbd3/transformed/jetified-viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/angelin/.gradle/caches/transforms-3/054165266145d756dc19bae0bd90bbd3/transformed/jetified-viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-fragment:2.3.5] /Users/angelin/.gradle/caches/transforms-3/eea9742d190306e3960cdce357ee0164/transformed/navigation-fragment-2.3.5/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-fragment:2.3.5] /Users/angelin/.gradle/caches/transforms-3/eea9742d190306e3960cdce357ee0164/transformed/navigation-fragment-2.3.5/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.2.4] /Users/angelin/.gradle/caches/transforms-3/561455438bc8ae8532e4aa722fdd932e/transformed/fragment-1.2.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.2.4] /Users/angelin/.gradle/caches/transforms-3/561455438bc8ae8532e4aa722fdd932e/transformed/fragment-1.2.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.loader:loader:1.0.0] /Users/angelin/.gradle/caches/transforms-3/2c4c88d3ffd872a285f27eb62b65ad19/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/angelin/.gradle/caches/transforms-3/2c4c88d3ffd872a285f27eb62b65ad19/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/angelin/.gradle/caches/transforms-3/9f2ab41eb3ffe25ae9ffcebd3f6d4e0b/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/angelin/.gradle/caches/transforms-3/9f2ab41eb3ffe25ae9ffcebd3f6d4e0b/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/angelin/.gradle/caches/transforms-3/f35de7a1eeff87ee5bb17d33efad3777/transformed/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/angelin/.gradle/caches/transforms-3/f35de7a1eeff87ee5bb17d33efad3777/transformed/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/angelin/.gradle/caches/transforms-3/5a0fbe18a42cfa1859ddab587cca5ed7/transformed/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/angelin/.gradle/caches/transforms-3/5a0fbe18a42cfa1859ddab587cca5ed7/transformed/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/angelin/.gradle/caches/transforms-3/4f303c1c48971513ca47cfe98537a087/transformed/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/angelin/.gradle/caches/transforms-3/4f303c1c48971513ca47cfe98537a087/transformed/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/angelin/.gradle/caches/transforms-3/e1339030717ddd83c72bf114b27b8f40/transformed/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/angelin/.gradle/caches/transforms-3/e1339030717ddd83c72bf114b27b8f40/transformed/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /Users/angelin/.gradle/caches/transforms-3/8ff2142a1a3a32201889c8badcb195c4/transformed/drawerlayout-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /Users/angelin/.gradle/caches/transforms-3/8ff2142a1a3a32201889c8badcb195c4/transformed/drawerlayout-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] /Users/angelin/.gradle/caches/transforms-3/9c05732d6d2dbc22c55cfeaaec6fe728/transformed/customview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] /Users/angelin/.gradle/caches/transforms-3/9c05732d6d2dbc22c55cfeaaec6fe728/transformed/customview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.3.0] /Users/angelin/.gradle/caches/transforms-3/8f904d2ca472b98b3e330ab88b3a27ea/transformed/transition-1.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.3.0] /Users/angelin/.gradle/caches/transforms-3/8f904d2ca472b98b3e330ab88b3a27ea/transformed/transition-1.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime:2.3.5] /Users/angelin/.gradle/caches/transforms-3/085a0e386f1d630cb9aad4627ef18f5e/transformed/navigation-runtime-2.3.5/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime:2.3.5] /Users/angelin/.gradle/caches/transforms-3/085a0e386f1d630cb9aad4627ef18f5e/transformed/navigation-runtime-2.3.5/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.1.0] /Users/angelin/.gradle/caches/transforms-3/c9abca911df12f4c294d31f10b1e02cd/transformed/jetified-activity-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.1.0] /Users/angelin/.gradle/caches/transforms-3/c9abca911df12f4c294d31f10b1e02cd/transformed/jetified-activity-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common:2.3.5] /Users/angelin/.gradle/caches/transforms-3/d3bc00b436a244a8f9a419ff5d5dda2b/transformed/navigation-common-2.3.5/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common:2.3.5] /Users/angelin/.gradle/caches/transforms-3/d3bc00b436a244a8f9a419ff5d5dda2b/transformed/navigation-common-2.3.5/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.3.2] /Users/angelin/.gradle/caches/transforms-3/757d34ac79418c4db35d5e9fcc0c9e11/transformed/core-1.3.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.3.2] /Users/angelin/.gradle/caches/transforms-3/757d34ac79418c4db35d5e9fcc0c9e11/transformed/core-1.3.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/angelin/.gradle/caches/transforms-3/7f71cc8fe47eea07bd871bdd2868ac22/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/angelin/.gradle/caches/transforms-3/7f71cc8fe47eea07bd871bdd2868ac22/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/angelin/.gradle/caches/transforms-3/482be06faa15cf456eb93dae81837d4e/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/angelin/.gradle/caches/transforms-3/482be06faa15cf456eb93dae81837d4e/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0] /Users/angelin/.gradle/caches/transforms-3/7f6d2629ed70dc0b3e4b0439c9483892/transformed/jetified-lifecycle-viewmodel-savedstate-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0] /Users/angelin/.gradle/caches/transforms-3/7f6d2629ed70dc0b3e4b0439c9483892/transformed/jetified-lifecycle-viewmodel-savedstate-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] /Users/angelin/.gradle/caches/transforms-3/5cae1c74e62fbb503b1c8ba79109aac7/transformed/lifecycle-viewmodel-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] /Users/angelin/.gradle/caches/transforms-3/5cae1c74e62fbb503b1c8ba79109aac7/transformed/lifecycle-viewmodel-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.sqlite:sqlite-framework:2.1.0] /Users/angelin/.gradle/caches/transforms-3/c90b97e0d5db847229be448b41d18dec/transformed/sqlite-framework-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.sqlite:sqlite-framework:2.1.0] /Users/angelin/.gradle/caches/transforms-3/c90b97e0d5db847229be448b41d18dec/transformed/sqlite-framework-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.sqlite:sqlite:2.1.0] /Users/angelin/.gradle/caches/transforms-3/246b8f6b03ecfb1dd5d23ee1e864ec88/transformed/sqlite-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.sqlite:sqlite:2.1.0] /Users/angelin/.gradle/caches/transforms-3/246b8f6b03ecfb1dd5d23ee1e864ec88/transformed/sqlite-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/angelin/.gradle/caches/transforms-3/215afc794b253230f4b4cd106c187f3b/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/angelin/.gradle/caches/transforms-3/215afc794b253230f4b4cd106c187f3b/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/angelin/.gradle/caches/transforms-3/e73611c39df8b263200ff11ce1e8324f/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/angelin/.gradle/caches/transforms-3/e73611c39df8b263200ff11ce1e8324f/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/angelin/.gradle/caches/transforms-3/9f827041989a29281e5ba305280a65f7/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/angelin/.gradle/caches/transforms-3/9f827041989a29281e5ba305280a65f7/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/angelin/.gradle/caches/transforms-3/f65a5539385e16be52cfbf6566543db7/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/angelin/.gradle/caches/transforms-3/f65a5539385e16be52cfbf6566543db7/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/angelin/.gradle/caches/transforms-3/9c1bfeafb12469e9385632ab51a0a8ec/transformed/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/angelin/.gradle/caches/transforms-3/9c1bfeafb12469e9385632ab51a0a8ec/transformed/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.3.1] /Users/angelin/.gradle/caches/transforms-3/65206f642923119c0a1fd3ce9b5c77db/transformed/lifecycle-livedata-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.3.1] /Users/angelin/.gradle/caches/transforms-3/65206f642923119c0a1fd3ce9b5c77db/transformed/lifecycle-livedata-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] /Users/angelin/.gradle/caches/transforms-3/54cc609905d6b62d0589875470390296/transformed/lifecycle-livedata-core-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] /Users/angelin/.gradle/caches/transforms-3/54cc609905d6b62d0589875470390296/transformed/lifecycle-livedata-core-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/angelin/.gradle/caches/transforms-3/ea0474c95e32fb3645a9cc4b2cef5eba/transformed/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/angelin/.gradle/caches/transforms-3/ea0474c95e32fb3645a9cc4b2cef5eba/transformed/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/angelin/.gradle/caches/transforms-3/825db026fe123865d11684d4c880f438/transformed/jetified-savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/angelin/.gradle/caches/transforms-3/825db026fe123865d11684d4c880f438/transformed/jetified-savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /Users/angelin/.gradle/caches/transforms-3/1f664eef65ec9f36fc498756f8eae43e/transformed/lifecycle-runtime-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /Users/angelin/.gradle/caches/transforms-3/1f664eef65ec9f36fc498756f8eae43e/transformed/lifecycle-runtime-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /Users/angelin/.gradle/caches/transforms-3/34722d006b841ccd7f0edbfe477646ec/transformed/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /Users/angelin/.gradle/caches/transforms-3/34722d006b841ccd7f0edbfe477646ec/transformed/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:20:5-22:41
+INJECTED from /Users/angelin/Documents/projects/android/Doctor-Patient-Android-Project-New/app/src/main/AndroidManifest.xml
+INJECTED from /Users/angelin/Documents/projects/android/Doctor-Patient-Android-Project-New/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/angelin/Documents/projects/android/Doctor-Patient-Android-Project-New/app/src/main/AndroidManifest.xml
+		ADDED from /Users/angelin/Documents/projects/android/Doctor-Patient-Android-Project-New/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/angelin/Documents/projects/android/Doctor-Patient-Android-Project-New/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/angelin/Documents/projects/android/Doctor-Patient-Android-Project-New/app/src/main/AndroidManifest.xml
+		ADDED from /Users/angelin/Documents/projects/android/Doctor-Patient-Android-Project-New/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/angelin/Documents/projects/android/Doctor-Patient-Android-Project-New/app/src/main/AndroidManifest.xml
+service#androidx.room.MultiInstanceInvalidationService
+ADDED from [androidx.room:room-runtime:2.3.0] /Users/angelin/.gradle/caches/transforms-3/58138316f5a323488c5337359073de39/transformed/room-runtime-2.3.0/AndroidManifest.xml:25:9-28:40
+	android:exported
+		ADDED from [androidx.room:room-runtime:2.3.0] /Users/angelin/.gradle/caches/transforms-3/58138316f5a323488c5337359073de39/transformed/room-runtime-2.3.0/AndroidManifest.xml:28:13-37
+	android:directBootAware
+		ADDED from [androidx.room:room-runtime:2.3.0] /Users/angelin/.gradle/caches/transforms-3/58138316f5a323488c5337359073de39/transformed/room-runtime-2.3.0/AndroidManifest.xml:27:13-43
+	android:name
+		ADDED from [androidx.room:room-runtime:2.3.0] /Users/angelin/.gradle/caches/transforms-3/58138316f5a323488c5337359073de39/transformed/room-runtime-2.3.0/AndroidManifest.xml:26:13-74

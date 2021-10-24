@@ -1,0 +1,442 @@
+[
+    {
+        "merged": "/Users/angelin/Documents/projects/android/Doctor-Patient-Android-Project-New/app/build/intermediates/merged_res/debug/menu_doctor_menu.xml.flat",
+        "source": "/Users/angelin/Documents/projects/android/Doctor-Patient-Android-Project-New/app/src/main/res/menu/doctor_menu.xml"
+    },
+    {
+        "merged": "/Users/angelin/Documents/projects/android/Doctor-Patient-Android-Project-New/app/build/intermediates/merged_res/debug/mipmap-hdpi_ic_launcher_foreground_bk.png.flat",
+        "source": "/Users/angelin/Documents/projects/android/Doctor-Patient-Android-Project-New/app/src/main/res/mipmap-hdpi/ic_launcher_foreground_bk.png"
+    },
+    {
+        "merged": "/Users/angelin/Documents/projects/android/Doctor-Patient-Android-Project-New/app/build/intermediates/merged_res/debug/drawable_ic_baseline_dark_mode_24.xml.flat",
+        "source": "/Users/angelin/Documents/projects/android/Doctor-Patient-Android-Project-New/app/src/main/res/drawable/ic_baseline_dark_mode_24.xml"
+    },
+    {
+        "merged": "/Users/angelin/Documents/projects/android/Doctor-Patient-Android-Project-New/app/build/intermediates/merged_res/debug/mipmap-xxhdpi_ic_launcher_bk.png.flat",
+        "source": "/Users/angelin/Documents/projects/android/Doctor-Patient-Android-Project-New/app/src/main/res/mipmap-xxhdpi/ic_launcher_bk.png"
+    },
+    {
+        "merged": "/Users/angelin/Documents/projects/android/Doctor-Patient-Android-Project-New/app/build/intermediates/merged_res/debug/layout_available_doctor_list_item.xml.flat",
+        "source": "/Users/angelin/Documents/projects/android/Doctor-Patient-Android-Project-New/app/src/main/res/layout/available_doctor_list_item.xml"
+    },
+    {
+        "merged": "/Users/angelin/Documents/projects/android/Doctor-Patient-Android-Project-New/app/build/intermediates/merged_res/debug/drawable_ic_baseline_event_available_24.xml.flat",
+        "source": "/Users/angelin/Documents/projects/android/Doctor-Patient-Android-Project-New/app/src/main/res/drawable/ic_baseline_event_available_24.xml"
+    },
+    {
+        "merged": "/Users/angelin/Documents/projects/android/Doctor-Patient-Android-Project-New/app/build/intermediates/merged_res/debug/mipmap-hdpi_appointment_img.png.flat",
+        "source": "/Users/angelin/Documents/projects/android/Doctor-Patient-Android-Project-New/app/src/main/res/mipmap-hdpi/appointment_img.png"
+    },
+    {
+        "merged": "/Users/angelin/Documents/projects/android/Doctor-Patient-Android-Project-New/app/build/intermediates/merged_res/debug/drawable_ic_baseline_password_24.xml.flat",
+        "source": "/Users/angelin/Documents/projects/android/Doctor-Patient-Android-Project-New/app/src/main/res/drawable/ic_baseline_password_24.xml"
+    },
+    {
+        "merged": "/Users/angelin/Documents/projects/android/Doctor-Patient-Android-Project-New/app/build/intermediates/merged_res/debug/drawable_ic_launcher_background.xml.flat",
+        "source": "/Users/angelin/Documents/projects/android/Doctor-Patient-Android-Project-New/app/src/main/res/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "/Users/angelin/Documents/projects/android/Doctor-Patient-Android-Project-New/app/build/intermediates/merged_res/debug/drawable_button_bg_rounded_corners.xml.flat",
+        "source": "/Users/angelin/Documents/projects/android/Doctor-Patient-Android-Project-New/app/src/main/res/drawable/button_bg_rounded_corners.xml"
+    },
+    {
+        "merged": "/Users/angelin/Documents/projects/android/Doctor-Patient-Android-Project-New/app/build/intermediates/merged_res/debug/layout_add_new_degree_item.xml.flat",
+        "source": "/Users/angelin/Documents/projects/android/Doctor-Patient-Android-Project-New/app/src/main/res/layout/add_new_degree_item.xml"
+    },
+    {
+        "merged": "/Users/angelin/Documents/projects/android/Doctor-Patient-Android-Project-New/app/build/intermediates/merged_res/debug/menu-v26_patient_menu.xml.flat",
+        "source": "/Users/angelin/Documents/projects/android/Doctor-Patient-Android-Project-New/app/src/main/res/menu-v26/patient_menu.xml"
+    },
+    {
+        "merged": "/Users/angelin/Documents/projects/android/Doctor-Patient-Android-Project-New/app/build/intermediates/merged_res/debug/drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "/Users/angelin/Documents/projects/android/Doctor-Patient-Android-Project-New/app/build/generated/res/pngs/debug/drawable-anydpi-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "/Users/angelin/Documents/projects/android/Doctor-Patient-Android-Project-New/app/build/intermediates/merged_res/debug/drawable_ic_baseline_check_circle_24.xml.flat",
+        "source": "/Users/angelin/Documents/projects/android/Doctor-Patient-Android-Project-New/app/src/main/res/drawable/ic_baseline_check_circle_24.xml"
+    },
+    {
+        "merged": "/Users/angelin/Documents/projects/android/Doctor-Patient-Android-Project-New/app/build/intermediates/merged_res/debug/mipmap-xhdpi_patient_login_background.png.flat",
+        "source": "/Users/angelin/Documents/projects/android/Doctor-Patient-Android-Project-New/app/src/main/res/mipmap-xhdpi/patient_login_background.png"
+    },
+    {
+        "merged": "/Users/angelin/Documents/projects/android/Doctor-Patient-Android-Project-New/app/build/intermediates/merged_res/debug/layout_activity_sample1.xml.flat",
+        "source": "/Users/angelin/Documents/projects/android/Doctor-Patient-Android-Project-New/app/src/main/res/layout/activity_sample1.xml"
+    },
+    {
+        "merged": "/Users/angelin/Documents/projects/android/Doctor-Patient-Android-Project-New/app/build/intermediates/merged_res/debug/layout_available_doctor_timing_row_item.xml.flat",
+        "source": "/Users/angelin/Documents/projects/android/Doctor-Patient-Android-Project-New/app/src/main/res/layout/available_doctor_timing_row_item.xml"
+    },
+    {
+        "merged": "/Users/angelin/Documents/projects/android/Doctor-Patient-Android-Project-New/app/build/intermediates/merged_res/debug/layout_add_time_slot.xml.flat",
+        "source": "/Users/angelin/Documents/projects/android/Doctor-Patient-Android-Project-New/app/src/main/res/layout/add_time_slot.xml"
+    },
+    {
+        "merged": "/Users/angelin/Documents/projects/android/Doctor-Patient-Android-Project-New/app/build/intermediates/merged_res/debug/drawable_ic_baseline_search_24.xml.flat",
+        "source": "/Users/angelin/Documents/projects/android/Doctor-Patient-Android-Project-New/app/src/main/res/drawable/ic_baseline_search_24.xml"
+    },
+    {
+        "merged": "/Users/angelin/Documents/projects/android/Doctor-Patient-Android-Project-New/app/build/intermediates/merged_res/debug/layout_activity_doctor_profile.xml.flat",
+        "source": "/Users/angelin/Documents/projects/android/Doctor-Patient-Android-Project-New/app/src/main/res/layout/activity_doctor_profile.xml"
+    },
+    {
+        "merged": "/Users/angelin/Documents/projects/android/Doctor-Patient-Android-Project-New/app/build/intermediates/merged_res/debug/mipmap-mdpi_ic_launcher_round_bk.png.flat",
+        "source": "/Users/angelin/Documents/projects/android/Doctor-Patient-Android-Project-New/app/src/main/res/mipmap-mdpi/ic_launcher_round_bk.png"
+    },
+    {
+        "merged": "/Users/angelin/Documents/projects/android/Doctor-Patient-Android-Project-New/app/build/intermediates/merged_res/debug/menu_main_menu.xml.flat",
+        "source": "/Users/angelin/Documents/projects/android/Doctor-Patient-Android-Project-New/app/src/main/res/menu/main_menu.xml"
+    },
+    {
+        "merged": "/Users/angelin/Documents/projects/android/Doctor-Patient-Android-Project-New/app/build/intermediates/merged_res/debug/drawable_ic_tick_point.xml.flat",
+        "source": "/Users/angelin/Documents/projects/android/Doctor-Patient-Android-Project-New/app/src/main/res/drawable/ic_tick_point.xml"
+    },
+    {
+        "merged": "/Users/angelin/Documents/projects/android/Doctor-Patient-Android-Project-New/app/build/intermediates/merged_res/debug/drawable_dialog_background.xml.flat",
+        "source": "/Users/angelin/Documents/projects/android/Doctor-Patient-Android-Project-New/app/src/main/res/drawable/dialog_background.xml"
+    },
+    {
+        "merged": "/Users/angelin/Documents/projects/android/Doctor-Patient-Android-Project-New/app/build/intermediates/merged_res/debug/drawable_ic_baseline_phone_24.xml.flat",
+        "source": "/Users/angelin/Documents/projects/android/Doctor-Patient-Android-Project-New/app/src/main/res/drawable/ic_baseline_phone_24.xml"
+    },
+    {
+        "merged": "/Users/angelin/Documents/projects/android/Doctor-Patient-Android-Project-New/app/build/intermediates/merged_res/debug/layout_fragment_patient_login.xml.flat",
+        "source": "/Users/angelin/Documents/projects/android/Doctor-Patient-Android-Project-New/app/src/main/res/layout/fragment_patient_login.xml"
+    },
+    {
+        "merged": "/Users/angelin/Documents/projects/android/Doctor-Patient-Android-Project-New/app/build/intermediates/merged_res/debug/layout_custom_progress_dialog.xml.flat",
+        "source": "/Users/angelin/Documents/projects/android/Doctor-Patient-Android-Project-New/app/src/main/res/layout/custom_progress_dialog.xml"
+    },
+    {
+        "merged": "/Users/angelin/Documents/projects/android/Doctor-Patient-Android-Project-New/app/build/intermediates/merged_res/debug/layout_patient_appointment_details_fragment.xml.flat",
+        "source": "/Users/angelin/Documents/projects/android/Doctor-Patient-Android-Project-New/app/src/main/res/layout/patient_appointment_details_fragment.xml"
+    },
+    {
+        "merged": "/Users/angelin/Documents/projects/android/Doctor-Patient-Android-Project-New/app/build/intermediates/merged_res/debug/layout_activity_constraint_layout.xml.flat",
+        "source": "/Users/angelin/Documents/projects/android/Doctor-Patient-Android-Project-New/app/src/main/res/layout/activity_constraint_layout.xml"
+    },
+    {
+        "merged": "/Users/angelin/Documents/projects/android/Doctor-Patient-Android-Project-New/app/build/intermediates/merged_res/debug/layout_fragment_patient_past_booking.xml.flat",
+        "source": "/Users/angelin/Documents/projects/android/Doctor-Patient-Android-Project-New/app/src/main/res/layout/fragment_patient_past_booking.xml"
+    },
+    {
+        "merged": "/Users/angelin/Documents/projects/android/Doctor-Patient-Android-Project-New/app/build/intermediates/merged_res/debug/mipmap-xhdpi_ic_launcher_bk.png.flat",
+        "source": "/Users/angelin/Documents/projects/android/Doctor-Patient-Android-Project-New/app/src/main/res/mipmap-xhdpi/ic_launcher_bk.png"
+    },
+    {
+        "merged": "/Users/angelin/Documents/projects/android/Doctor-Patient-Android-Project-New/app/build/intermediates/merged_res/debug/mipmap-xxhdpi_ic_launcher_foreground_bk.png.flat",
+        "source": "/Users/angelin/Documents/projects/android/Doctor-Patient-Android-Project-New/app/src/main/res/mipmap-xxhdpi/ic_launcher_foreground_bk.png"
+    },
+    {
+        "merged": "/Users/angelin/Documents/projects/android/Doctor-Patient-Android-Project-New/app/build/intermediates/merged_res/debug/mipmap-xxhdpi_patient_login_background_round.png.flat",
+        "source": "/Users/angelin/Documents/projects/android/Doctor-Patient-Android-Project-New/app/src/main/res/mipmap-xxhdpi/patient_login_background_round.png"
+    },
+    {
+        "merged": "/Users/angelin/Documents/projects/android/Doctor-Patient-Android-Project-New/app/build/intermediates/merged_res/debug/raw_splash_screen_asset.json.flat",
+        "source": "/Users/angelin/Documents/projects/android/Doctor-Patient-Android-Project-New/app/src/main/res/raw/splash_screen_asset.json"
+    },
+    {
+        "merged": "/Users/angelin/Documents/projects/android/Doctor-Patient-Android-Project-New/app/build/intermediates/merged_res/debug/mipmap-xhdpi_ic_launcher_round_bk.png.flat",
+        "source": "/Users/angelin/Documents/projects/android/Doctor-Patient-Android-Project-New/app/src/main/res/mipmap-xhdpi/ic_launcher_round_bk.png"
+    },
+    {
+        "merged": "/Users/angelin/Documents/projects/android/Doctor-Patient-Android-Project-New/app/build/intermediates/merged_res/debug/layout_activity_choose_role.xml.flat",
+        "source": "/Users/angelin/Documents/projects/android/Doctor-Patient-Android-Project-New/app/src/main/res/layout/activity_choose_role.xml"
+    },
+    {
+        "merged": "/Users/angelin/Documents/projects/android/Doctor-Patient-Android-Project-New/app/build/intermediates/merged_res/debug/layout_activity_constraintlayout2.xml.flat",
+        "source": "/Users/angelin/Documents/projects/android/Doctor-Patient-Android-Project-New/app/src/main/res/layout/activity_constraintlayout2.xml"
+    },
+    {
+        "merged": "/Users/angelin/Documents/projects/android/Doctor-Patient-Android-Project-New/app/build/intermediates/merged_res/debug/mipmap-mdpi_patient_login_background_round.png.flat",
+        "source": "/Users/angelin/Documents/projects/android/Doctor-Patient-Android-Project-New/app/src/main/res/mipmap-mdpi/patient_login_background_round.png"
+    },
+    {
+        "merged": "/Users/angelin/Documents/projects/android/Doctor-Patient-Android-Project-New/app/build/intermediates/merged_res/debug/layout_filter_doctor_item.xml.flat",
+        "source": "/Users/angelin/Documents/projects/android/Doctor-Patient-Android-Project-New/app/src/main/res/layout/filter_doctor_item.xml"
+    },
+    {
+        "merged": "/Users/angelin/Documents/projects/android/Doctor-Patient-Android-Project-New/app/build/intermediates/merged_res/debug/layout_doctor_degree_dropdown_item.xml.flat",
+        "source": "/Users/angelin/Documents/projects/android/Doctor-Patient-Android-Project-New/app/src/main/res/layout/doctor_degree_dropdown_item.xml"
+    },
+    {
+        "merged": "/Users/angelin/Documents/projects/android/Doctor-Patient-Android-Project-New/app/build/intermediates/merged_res/debug/mipmap-xhdpi_patient_login_background_foreground_bk.png.flat",
+        "source": "/Users/angelin/Documents/projects/android/Doctor-Patient-Android-Project-New/app/src/main/res/mipmap-xhdpi/patient_login_background_foreground_bk.png"
+    },
+    {
+        "merged": "/Users/angelin/Documents/projects/android/Doctor-Patient-Android-Project-New/app/build/intermediates/merged_res/debug/mipmap-xxhdpi_ic_launcher_round_bk.png.flat",
+        "source": "/Users/angelin/Documents/projects/android/Doctor-Patient-Android-Project-New/app/src/main/res/mipmap-xxhdpi/ic_launcher_round_bk.png"
+    },
+    {
+        "merged": "/Users/angelin/Documents/projects/android/Doctor-Patient-Android-Project-New/app/build/intermediates/merged_res/debug/mipmap-hdpi_patient_login_background.png.flat",
+        "source": "/Users/angelin/Documents/projects/android/Doctor-Patient-Android-Project-New/app/src/main/res/mipmap-hdpi/patient_login_background.png"
+    },
+    {
+        "merged": "/Users/angelin/Documents/projects/android/Doctor-Patient-Android-Project-New/app/build/intermediates/merged_res/debug/drawable_ic_baseline_wb_sunny_24.xml.flat",
+        "source": "/Users/angelin/Documents/projects/android/Doctor-Patient-Android-Project-New/app/src/main/res/drawable/ic_baseline_wb_sunny_24.xml"
+    },
+    {
+        "merged": "/Users/angelin/Documents/projects/android/Doctor-Patient-Android-Project-New/app/build/intermediates/merged_res/debug/layout_activity_patient_main.xml.flat",
+        "source": "/Users/angelin/Documents/projects/android/Doctor-Patient-Android-Project-New/app/src/main/res/layout/activity_patient_main.xml"
+    },
+    {
+        "merged": "/Users/angelin/Documents/projects/android/Doctor-Patient-Android-Project-New/app/build/intermediates/merged_res/debug/layout_activity_patient_search_result.xml.flat",
+        "source": "/Users/angelin/Documents/projects/android/Doctor-Patient-Android-Project-New/app/src/main/res/layout/activity_patient_search_result.xml"
+    },
+    {
+        "merged": "/Users/angelin/Documents/projects/android/Doctor-Patient-Android-Project-New/app/build/intermediates/merged_res/debug/drawable_ic_baseline_login_24.xml.flat",
+        "source": "/Users/angelin/Documents/projects/android/Doctor-Patient-Android-Project-New/app/src/main/res/drawable/ic_baseline_login_24.xml"
+    },
+    {
+        "merged": "/Users/angelin/Documents/projects/android/Doctor-Patient-Android-Project-New/app/build/intermediates/merged_res/debug/layout_activity_register_role.xml.flat",
+        "source": "/Users/angelin/Documents/projects/android/Doctor-Patient-Android-Project-New/app/src/main/res/layout/activity_register_role.xml"
+    },
+    {
+        "merged": "/Users/angelin/Documents/projects/android/Doctor-Patient-Android-Project-New/app/build/intermediates/merged_res/debug/layout_add_date_time_slot_layout.xml.flat",
+        "source": "/Users/angelin/Documents/projects/android/Doctor-Patient-Android-Project-New/app/src/main/res/layout/add_date_time_slot_layout.xml"
+    },
+    {
+        "merged": "/Users/angelin/Documents/projects/android/Doctor-Patient-Android-Project-New/app/build/intermediates/merged_res/debug/drawable_ic_baseline_access_time_24.xml.flat",
+        "source": "/Users/angelin/Documents/projects/android/Doctor-Patient-Android-Project-New/app/src/main/res/drawable/ic_baseline_access_time_24.xml"
+    },
+    {
+        "merged": "/Users/angelin/Documents/projects/android/Doctor-Patient-Android-Project-New/app/build/intermediates/merged_res/debug/mipmap-anydpi-v26_patient_login_background_round.xml.flat",
+        "source": "/Users/angelin/Documents/projects/android/Doctor-Patient-Android-Project-New/app/src/main/res/mipmap-anydpi-v26/patient_login_background_round.xml"
+    },
+    {
+        "merged": "/Users/angelin/Documents/projects/android/Doctor-Patient-Android-Project-New/app/build/intermediates/merged_res/debug/drawable_ic_baseline_call_24.xml.flat",
+        "source": "/Users/angelin/Documents/projects/android/Doctor-Patient-Android-Project-New/app/src/main/res/drawable/ic_baseline_call_24.xml"
+    },
+    {
+        "merged": "/Users/angelin/Documents/projects/android/Doctor-Patient-Android-Project-New/app/build/intermediates/merged_res/debug/menu_patient_menu.xml.flat",
+        "source": "/Users/angelin/Documents/projects/android/Doctor-Patient-Android-Project-New/app/src/main/res/menu/patient_menu.xml"
+    },
+    {
+        "merged": "/Users/angelin/Documents/projects/android/Doctor-Patient-Android-Project-New/app/build/intermediates/merged_res/debug/layout_activity_patient_login_sign_up.xml.flat",
+        "source": "/Users/angelin/Documents/projects/android/Doctor-Patient-Android-Project-New/app/src/main/res/layout/activity_patient_login_sign_up.xml"
+    },
+    {
+        "merged": "/Users/angelin/Documents/projects/android/Doctor-Patient-Android-Project-New/app/build/intermediates/merged_res/debug/drawable_ic_baseline_close_24.xml.flat",
+        "source": "/Users/angelin/Documents/projects/android/Doctor-Patient-Android-Project-New/app/src/main/res/drawable/ic_baseline_close_24.xml"
+    },
+    {
+        "merged": "/Users/angelin/Documents/projects/android/Doctor-Patient-Android-Project-New/app/build/intermediates/merged_res/debug/mipmap-xxhdpi_patient_login_background.png.flat",
+        "source": "/Users/angelin/Documents/projects/android/Doctor-Patient-Android-Project-New/app/src/main/res/mipmap-xxhdpi/patient_login_background.png"
+    },
+    {
+        "merged": "/Users/angelin/Documents/projects/android/Doctor-Patient-Android-Project-New/app/build/intermediates/merged_res/debug/layout_fragment_patient_upcoming_booking.xml.flat",
+        "source": "/Users/angelin/Documents/projects/android/Doctor-Patient-Android-Project-New/app/src/main/res/layout/fragment_patient_upcoming_booking.xml"
+    },
+    {
+        "merged": "/Users/angelin/Documents/projects/android/Doctor-Patient-Android-Project-New/app/build/intermediates/merged_res/debug/layout_activity_main.xml.flat",
+        "source": "/Users/angelin/Documents/projects/android/Doctor-Patient-Android-Project-New/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/angelin/Documents/projects/android/Doctor-Patient-Android-Project-New/app/build/intermediates/merged_res/debug/layout_doctor_filter_dialog.xml.flat",
+        "source": "/Users/angelin/Documents/projects/android/Doctor-Patient-Android-Project-New/app/src/main/res/layout/doctor_filter_dialog.xml"
+    },
+    {
+        "merged": "/Users/angelin/Documents/projects/android/Doctor-Patient-Android-Project-New/app/build/intermediates/merged_res/debug/mipmap-xxxhdpi_patient_login_background_foreground_bk.png.flat",
+        "source": "/Users/angelin/Documents/projects/android/Doctor-Patient-Android-Project-New/app/src/main/res/mipmap-xxxhdpi/patient_login_background_foreground_bk.png"
+    },
+    {
+        "merged": "/Users/angelin/Documents/projects/android/Doctor-Patient-Android-Project-New/app/build/intermediates/merged_res/debug/mipmap-xxxhdpi_patient_login_background_round.png.flat",
+        "source": "/Users/angelin/Documents/projects/android/Doctor-Patient-Android-Project-New/app/src/main/res/mipmap-xxxhdpi/patient_login_background_round.png"
+    },
+    {
+        "merged": "/Users/angelin/Documents/projects/android/Doctor-Patient-Android-Project-New/app/build/intermediates/merged_res/debug/drawable_ic_wave.xml.flat",
+        "source": "/Users/angelin/Documents/projects/android/Doctor-Patient-Android-Project-New/app/src/main/res/drawable/ic_wave.xml"
+    },
+    {
+        "merged": "/Users/angelin/Documents/projects/android/Doctor-Patient-Android-Project-New/app/build/intermediates/merged_res/debug/mipmap-mdpi_patient_login_background.png.flat",
+        "source": "/Users/angelin/Documents/projects/android/Doctor-Patient-Android-Project-New/app/src/main/res/mipmap-mdpi/patient_login_background.png"
+    },
+    {
+        "merged": "/Users/angelin/Documents/projects/android/Doctor-Patient-Android-Project-New/app/build/intermediates/merged_res/debug/layout_activity_patient_book_appointment.xml.flat",
+        "source": "/Users/angelin/Documents/projects/android/Doctor-Patient-Android-Project-New/app/src/main/res/layout/activity_patient_book_appointment.xml"
+    },
+    {
+        "merged": "/Users/angelin/Documents/projects/android/Doctor-Patient-Android-Project-New/app/build/intermediates/merged_res/debug/drawable_ic_baseline_history_24.xml.flat",
+        "source": "/Users/angelin/Documents/projects/android/Doctor-Patient-Android-Project-New/app/src/main/res/drawable/ic_baseline_history_24.xml"
+    },
+    {
+        "merged": "/Users/angelin/Documents/projects/android/Doctor-Patient-Android-Project-New/app/build/intermediates/merged_res/debug/mipmap-xxxhdpi_appointment_img.png.flat",
+        "source": "/Users/angelin/Documents/projects/android/Doctor-Patient-Android-Project-New/app/src/main/res/mipmap-xxxhdpi/appointment_img.png"
+    },
+    {
+        "merged": "/Users/angelin/Documents/projects/android/Doctor-Patient-Android-Project-New/app/build/intermediates/merged_res/debug/mipmap-xxhdpi_patient_login_background_foreground_bk.png.flat",
+        "source": "/Users/angelin/Documents/projects/android/Doctor-Patient-Android-Project-New/app/src/main/res/mipmap-xxhdpi/patient_login_background_foreground_bk.png"
+    },
+    {
+        "merged": "/Users/angelin/Documents/projects/android/Doctor-Patient-Android-Project-New/app/build/intermediates/merged_res/debug/drawable_appointment_date_row_background.xml.flat",
+        "source": "/Users/angelin/Documents/projects/android/Doctor-Patient-Android-Project-New/app/src/main/res/drawable/appointment_date_row_background.xml"
+    },
+    {
+        "merged": "/Users/angelin/Documents/projects/android/Doctor-Patient-Android-Project-New/app/build/intermediates/merged_res/debug/mipmap-hdpi_patient_login_background_foreground_bk.png.flat",
+        "source": "/Users/angelin/Documents/projects/android/Doctor-Patient-Android-Project-New/app/src/main/res/mipmap-hdpi/patient_login_background_foreground_bk.png"
+    },
+    {
+        "merged": "/Users/angelin/Documents/projects/android/Doctor-Patient-Android-Project-New/app/build/intermediates/merged_res/debug/drawable_ic_baseline_exit_to_app_24.xml.flat",
+        "source": "/Users/angelin/Documents/projects/android/Doctor-Patient-Android-Project-New/app/src/main/res/drawable/ic_baseline_exit_to_app_24.xml"
+    },
+    {
+        "merged": "/Users/angelin/Documents/projects/android/Doctor-Patient-Android-Project-New/app/build/intermediates/merged_res/debug/mipmap-xhdpi_patient_login_background_round.png.flat",
+        "source": "/Users/angelin/Documents/projects/android/Doctor-Patient-Android-Project-New/app/src/main/res/mipmap-xhdpi/patient_login_background_round.png"
+    },
+    {
+        "merged": "/Users/angelin/Documents/projects/android/Doctor-Patient-Android-Project-New/app/build/intermediates/merged_res/debug/layout_future_date_item.xml.flat",
+        "source": "/Users/angelin/Documents/projects/android/Doctor-Patient-Android-Project-New/app/src/main/res/layout/future_date_item.xml"
+    },
+    {
+        "merged": "/Users/angelin/Documents/projects/android/Doctor-Patient-Android-Project-New/app/build/intermediates/merged_res/debug/drawable_ic_baseline_keyboard_arrow_right_24.xml.flat",
+        "source": "/Users/angelin/Documents/projects/android/Doctor-Patient-Android-Project-New/app/src/main/res/drawable/ic_baseline_keyboard_arrow_right_24.xml"
+    },
+    {
+        "merged": "/Users/angelin/Documents/projects/android/Doctor-Patient-Android-Project-New/app/build/intermediates/merged_res/debug/drawable_ic_baseline_person_add_24.xml.flat",
+        "source": "/Users/angelin/Documents/projects/android/Doctor-Patient-Android-Project-New/app/src/main/res/drawable/ic_baseline_person_add_24.xml"
+    },
+    {
+        "merged": "/Users/angelin/Documents/projects/android/Doctor-Patient-Android-Project-New/app/build/intermediates/merged_res/debug/mipmap-mdpi_ic_launcher_bk.png.flat",
+        "source": "/Users/angelin/Documents/projects/android/Doctor-Patient-Android-Project-New/app/src/main/res/mipmap-mdpi/ic_launcher_bk.png"
+    },
+    {
+        "merged": "/Users/angelin/Documents/projects/android/Doctor-Patient-Android-Project-New/app/build/intermediates/merged_res/debug/layout_appointment_detail_row_item.xml.flat",
+        "source": "/Users/angelin/Documents/projects/android/Doctor-Patient-Android-Project-New/app/src/main/res/layout/appointment_detail_row_item.xml"
+    },
+    {
+        "merged": "/Users/angelin/Documents/projects/android/Doctor-Patient-Android-Project-New/app/build/intermediates/merged_res/debug/drawable_ic_baseline_video_call_24.xml.flat",
+        "source": "/Users/angelin/Documents/projects/android/Doctor-Patient-Android-Project-New/app/src/main/res/drawable/ic_baseline_video_call_24.xml"
+    },
+    {
+        "merged": "/Users/angelin/Documents/projects/android/Doctor-Patient-Android-Project-New/app/build/intermediates/merged_res/debug/menu_patient_bottom_nav_menu.xml.flat",
+        "source": "/Users/angelin/Documents/projects/android/Doctor-Patient-Android-Project-New/app/src/main/res/menu/patient_bottom_nav_menu.xml"
+    },
+    {
+        "merged": "/Users/angelin/Documents/projects/android/Doctor-Patient-Android-Project-New/app/build/intermediates/merged_res/debug/layout_activity_doctor_patient_login.xml.flat",
+        "source": "/Users/angelin/Documents/projects/android/Doctor-Patient-Android-Project-New/app/src/main/res/layout/activity_doctor_patient_login.xml"
+    },
+    {
+        "merged": "/Users/angelin/Documents/projects/android/Doctor-Patient-Android-Project-New/app/build/intermediates/merged_res/debug/drawable_appointment_img.png.flat",
+        "source": "/Users/angelin/Documents/projects/android/Doctor-Patient-Android-Project-New/app/src/main/res/drawable/appointment_img.png"
+    },
+    {
+        "merged": "/Users/angelin/Documents/projects/android/Doctor-Patient-Android-Project-New/app/build/intermediates/merged_res/debug/mipmap-hdpi_ic_launcher_round_bk.png.flat",
+        "source": "/Users/angelin/Documents/projects/android/Doctor-Patient-Android-Project-New/app/src/main/res/mipmap-hdpi/ic_launcher_round_bk.png"
+    },
+    {
+        "merged": "/Users/angelin/Documents/projects/android/Doctor-Patient-Android-Project-New/app/build/intermediates/merged_res/debug/mipmap-xhdpi_ic_launcher_foreground_bk.png.flat",
+        "source": "/Users/angelin/Documents/projects/android/Doctor-Patient-Android-Project-New/app/src/main/res/mipmap-xhdpi/ic_launcher_foreground_bk.png"
+    },
+    {
+        "merged": "/Users/angelin/Documents/projects/android/Doctor-Patient-Android-Project-New/app/build/intermediates/merged_res/debug/mipmap-anydpi-v26_patient_login_background.xml.flat",
+        "source": "/Users/angelin/Documents/projects/android/Doctor-Patient-Android-Project-New/app/src/main/res/mipmap-anydpi-v26/patient_login_background.xml"
+    },
+    {
+        "merged": "/Users/angelin/Documents/projects/android/Doctor-Patient-Android-Project-New/app/build/intermediates/merged_res/debug/mipmap-mdpi_patient_login_background_foreground_bk.png.flat",
+        "source": "/Users/angelin/Documents/projects/android/Doctor-Patient-Android-Project-New/app/src/main/res/mipmap-mdpi/patient_login_background_foreground_bk.png"
+    },
+    {
+        "merged": "/Users/angelin/Documents/projects/android/Doctor-Patient-Android-Project-New/app/build/intermediates/merged_res/debug/layout_available_doctors_fragment.xml.flat",
+        "source": "/Users/angelin/Documents/projects/android/Doctor-Patient-Android-Project-New/app/src/main/res/layout/available_doctors_fragment.xml"
+    },
+    {
+        "merged": "/Users/angelin/Documents/projects/android/Doctor-Patient-Android-Project-New/app/build/intermediates/merged_res/debug/layout_admin_login_layout.xml.flat",
+        "source": "/Users/angelin/Documents/projects/android/Doctor-Patient-Android-Project-New/app/src/main/res/layout/admin_login_layout.xml"
+    },
+    {
+        "merged": "/Users/angelin/Documents/projects/android/Doctor-Patient-Android-Project-New/app/build/intermediates/merged_res/debug/mipmap-mdpi_appointment_img.png.flat",
+        "source": "/Users/angelin/Documents/projects/android/Doctor-Patient-Android-Project-New/app/src/main/res/mipmap-mdpi/appointment_img.png"
+    },
+    {
+        "merged": "/Users/angelin/Documents/projects/android/Doctor-Patient-Android-Project-New/app/build/intermediates/merged_res/debug/layout_fragment_patient_signup.xml.flat",
+        "source": "/Users/angelin/Documents/projects/android/Doctor-Patient-Android-Project-New/app/src/main/res/layout/fragment_patient_signup.xml"
+    },
+    {
+        "merged": "/Users/angelin/Documents/projects/android/Doctor-Patient-Android-Project-New/app/build/intermediates/merged_res/debug/drawable_ic_baseline_add_24.xml.flat",
+        "source": "/Users/angelin/Documents/projects/android/Doctor-Patient-Android-Project-New/app/src/main/res/drawable/ic_baseline_add_24.xml"
+    },
+    {
+        "merged": "/Users/angelin/Documents/projects/android/Doctor-Patient-Android-Project-New/app/build/intermediates/merged_res/debug/mipmap-xxxhdpi_ic_launcher_round_bk.png.flat",
+        "source": "/Users/angelin/Documents/projects/android/Doctor-Patient-Android-Project-New/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round_bk.png"
+    },
+    {
+        "merged": "/Users/angelin/Documents/projects/android/Doctor-Patient-Android-Project-New/app/build/intermediates/merged_res/debug/drawable-v24_download.png.flat",
+        "source": "/Users/angelin/Documents/projects/android/Doctor-Patient-Android-Project-New/app/src/main/res/drawable-v24/download.png"
+    },
+    {
+        "merged": "/Users/angelin/Documents/projects/android/Doctor-Patient-Android-Project-New/app/build/intermediates/merged_res/debug/mipmap-xxxhdpi_ic_launcher_bk.png.flat",
+        "source": "/Users/angelin/Documents/projects/android/Doctor-Patient-Android-Project-New/app/src/main/res/mipmap-xxxhdpi/ic_launcher_bk.png"
+    },
+    {
+        "merged": "/Users/angelin/Documents/projects/android/Doctor-Patient-Android-Project-New/app/build/intermediates/merged_res/debug/mipmap-xxxhdpi_patient_login_background.png.flat",
+        "source": "/Users/angelin/Documents/projects/android/Doctor-Patient-Android-Project-New/app/src/main/res/mipmap-xxxhdpi/patient_login_background.png"
+    },
+    {
+        "merged": "/Users/angelin/Documents/projects/android/Doctor-Patient-Android-Project-New/app/build/intermediates/merged_res/debug/drawable_patient_login_signup_bg.xml.flat",
+        "source": "/Users/angelin/Documents/projects/android/Doctor-Patient-Android-Project-New/app/src/main/res/drawable/patient_login_signup_bg.xml"
+    },
+    {
+        "merged": "/Users/angelin/Documents/projects/android/Doctor-Patient-Android-Project-New/app/build/intermediates/merged_res/debug/drawable_ic_baseline_build_24.xml.flat",
+        "source": "/Users/angelin/Documents/projects/android/Doctor-Patient-Android-Project-New/app/src/main/res/drawable/ic_baseline_build_24.xml"
+    },
+    {
+        "merged": "/Users/angelin/Documents/projects/android/Doctor-Patient-Android-Project-New/app/build/intermediates/merged_res/debug/layout_activity_patient_appointment_history.xml.flat",
+        "source": "/Users/angelin/Documents/projects/android/Doctor-Patient-Android-Project-New/app/src/main/res/layout/activity_patient_appointment_history.xml"
+    },
+    {
+        "merged": "/Users/angelin/Documents/projects/android/Doctor-Patient-Android-Project-New/app/build/intermediates/merged_res/debug/layout_activity_splash_screen.xml.flat",
+        "source": "/Users/angelin/Documents/projects/android/Doctor-Patient-Android-Project-New/app/src/main/res/layout/activity_splash_screen.xml"
+    },
+    {
+        "merged": "/Users/angelin/Documents/projects/android/Doctor-Patient-Android-Project-New/app/build/intermediates/merged_res/debug/mipmap-mdpi_ic_launcher_foreground_bk.png.flat",
+        "source": "/Users/angelin/Documents/projects/android/Doctor-Patient-Android-Project-New/app/src/main/res/mipmap-mdpi/ic_launcher_foreground_bk.png"
+    },
+    {
+        "merged": "/Users/angelin/Documents/projects/android/Doctor-Patient-Android-Project-New/app/build/intermediates/merged_res/debug/layout_appointment_date_item.xml.flat",
+        "source": "/Users/angelin/Documents/projects/android/Doctor-Patient-Android-Project-New/app/src/main/res/layout/appointment_date_item.xml"
+    },
+    {
+        "merged": "/Users/angelin/Documents/projects/android/Doctor-Patient-Android-Project-New/app/build/intermediates/merged_res/debug/mipmap-anydpi-v26_ic_launcher_round_bk.xml.flat",
+        "source": "/Users/angelin/Documents/projects/android/Doctor-Patient-Android-Project-New/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round_bk.xml"
+    },
+    {
+        "merged": "/Users/angelin/Documents/projects/android/Doctor-Patient-Android-Project-New/app/build/intermediates/merged_res/debug/mipmap-hdpi_ic_launcher_bk.png.flat",
+        "source": "/Users/angelin/Documents/projects/android/Doctor-Patient-Android-Project-New/app/src/main/res/mipmap-hdpi/ic_launcher_bk.png"
+    },
+    {
+        "merged": "/Users/angelin/Documents/projects/android/Doctor-Patient-Android-Project-New/app/build/intermediates/merged_res/debug/xml_searchable.xml.flat",
+        "source": "/Users/angelin/Documents/projects/android/Doctor-Patient-Android-Project-New/app/src/main/res/xml/searchable.xml"
+    },
+    {
+        "merged": "/Users/angelin/Documents/projects/android/Doctor-Patient-Android-Project-New/app/build/intermediates/merged_res/debug/drawable_ic_baseline_person_24.xml.flat",
+        "source": "/Users/angelin/Documents/projects/android/Doctor-Patient-Android-Project-New/app/src/main/res/drawable/ic_baseline_person_24.xml"
+    },
+    {
+        "merged": "/Users/angelin/Documents/projects/android/Doctor-Patient-Android-Project-New/app/build/intermediates/merged_res/debug/mipmap-xxhdpi_appointment_img.png.flat",
+        "source": "/Users/angelin/Documents/projects/android/Doctor-Patient-Android-Project-New/app/src/main/res/mipmap-xxhdpi/appointment_img.png"
+    },
+    {
+        "merged": "/Users/angelin/Documents/projects/android/Doctor-Patient-Android-Project-New/app/build/intermediates/merged_res/debug/mipmap-xxxhdpi_ic_launcher_foreground_bk.png.flat",
+        "source": "/Users/angelin/Documents/projects/android/Doctor-Patient-Android-Project-New/app/src/main/res/mipmap-xxxhdpi/ic_launcher_foreground_bk.png"
+    },
+    {
+        "merged": "/Users/angelin/Documents/projects/android/Doctor-Patient-Android-Project-New/app/build/intermediates/merged_res/debug/mipmap-hdpi_patient_login_background_round.png.flat",
+        "source": "/Users/angelin/Documents/projects/android/Doctor-Patient-Android-Project-New/app/src/main/res/mipmap-hdpi/patient_login_background_round.png"
+    },
+    {
+        "merged": "/Users/angelin/Documents/projects/android/Doctor-Patient-Android-Project-New/app/build/intermediates/merged_res/debug/mipmap-anydpi-v26_ic_launcher_bk.xml.flat",
+        "source": "/Users/angelin/Documents/projects/android/Doctor-Patient-Android-Project-New/app/src/main/res/mipmap-anydpi-v26/ic_launcher_bk.xml"
+    },
+    {
+        "merged": "/Users/angelin/Documents/projects/android/Doctor-Patient-Android-Project-New/app/build/intermediates/merged_res/debug/drawable_ic_baseline_filter_alt_24.xml.flat",
+        "source": "/Users/angelin/Documents/projects/android/Doctor-Patient-Android-Project-New/app/src/main/res/drawable/ic_baseline_filter_alt_24.xml"
+    },
+    {
+        "merged": "/Users/angelin/Documents/projects/android/Doctor-Patient-Android-Project-New/app/build/intermediates/merged_res/debug/mipmap-xhdpi_appointment_img.png.flat",
+        "source": "/Users/angelin/Documents/projects/android/Doctor-Patient-Android-Project-New/app/src/main/res/mipmap-xhdpi/appointment_img.png"
+    },
+    {
+        "merged": "/Users/angelin/Documents/projects/android/Doctor-Patient-Android-Project-New/app/build/intermediates/merged_res/debug/layout_activity_constraintlayout3.xml.flat",
+        "source": "/Users/angelin/Documents/projects/android/Doctor-Patient-Android-Project-New/app/src/main/res/layout/activity_constraintlayout3.xml"
+    }
+]

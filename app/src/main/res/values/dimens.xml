@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="parentLayoutPadding">10dp</dimen>
+    <dimen name="innerChildPadding">5dp</dimen>
+    <dimen name="parentLayoutMargin">10dp</dimen>
+
+    <dimen name="cardElevation">5dp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+
+    <dimen name="bold_title">16sp</dimen>
+
+</resources>
